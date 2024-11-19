@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @randamopobela
-- 👀 I’m interested in Information Systems
-- 🌱 I’m currently learning Java and MySQL
+- 👀 I’m student of Information Systems
+- 🧑🏻‍💻 I’m currently learning Java and MySQL
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
